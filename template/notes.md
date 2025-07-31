@@ -1,6 +1,6 @@
 # Meeting Notes
 
-[DATE]
+## [DATE]
 
 ## Topic: [TOPIC]
 
