@@ -1,23 +1,30 @@
-    # Meeting Notes - [DATE]
+# Meeting Notes
 
-    ## Topic: [TOPIC]
+[DATE]
 
-    ### Attending:
-    - [ ] Name
-    - [ ] Name
-    - [ ] Name
+## Topic: [TOPIC]
 
-    ### Agenda Items:
-    - [ ] Item 1
-    - [ ] Item 2
-    - [ ] Item 3
+### Attending
 
-    ### Minutes:
-    [Elaborate on the topic and key points here.]
+- [ ] Name
+- [ ] Name
+- [ ] Name
 
-    ### Action Items:
-    - [ ] Task 1
-    - [ ] Task 2
+### Agenda Items
 
-    ### References:
-    - [Link to relevant documentation/resources]
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
+
+### Minutes
+
+[Elaborate on the topic and key points here.]
+
+### Action Items
+
+- [ ] Task 1
+- [ ] Task 2
+
+### References
+
+- [Link to relevant documentation/resources]
