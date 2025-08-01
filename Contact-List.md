@@ -1,19 +1,21 @@
 # Contact List
 
-## Woody Guthrie Center / Bob Dylan Center
+## Client: Woody Guthrie Center / Bob Dylan Center
+
+### Project: Guthrie Intuiface Updates
 ---
 
-#### Mark Davison  
+Mark Davison    
 Sr. Director of Archives and Exhibitions  
 mdavidson@bobdylancenter.com  
 (918) 392-3364  
 
-#### Gregg Pagano  
+Gregg Pagano    
 Lead Media Technician  
 gregg@woodyguthriecenter.org  
 (918) 329-3371  
 
-#### Brendan Hogan  
+Brendan Hogan  
 Interactive Developer  
 hogansound@gmail.com  
 buryhogan@gmail.com (business)  
