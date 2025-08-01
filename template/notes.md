@@ -1,30 +1,34 @@
-# Meeting Notes
+# Client: [NAME]
 
-## [DATE]
+### Project: [NAME]
 
-## Topic: [TOPIC]
+### Date: [DATE] [TIME], [LOCATION]
 
-### Attending
+### Topic: [TOPIC]
+
+#### Attending
 
 - Name
 - Name
 - Name
 
-### Agenda Items
+#### Agenda Items
 
 - Item 1
 - Item 2
 - Item 3
 
-### Minutes
+#### Minutes
 
 [Elaborate on the topic and key points here.]
 
-### Action Items
+#### Action Items
 
-- Task 1
-- Task 2
+- [ ] Task 1
+- [ ] Task 2
+- [ ] Task 3
+- [ ] Task 4
 
-### References
+#### References
 
 - [Link to relevant documentation/resources]
