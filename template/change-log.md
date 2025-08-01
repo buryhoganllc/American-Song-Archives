@@ -14,4 +14,11 @@ Initial production release = __1.0.0__
 - Host machine make/model:  
 - OS version:  
 - Intuiface Player version:   
-- XP File build version:  [file name] 
+- Final XP File build version:  [file name] 
+
+### Version [x.y.z] - [DATE]
+__Fixed__
+
+__Changed__
+
+__Added__
