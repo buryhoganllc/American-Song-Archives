@@ -2,19 +2,18 @@
 
 # Color Codes
 
-### Project: [NAME]
+### Project: Woody Guthrie Center - Intuiface
 
 ### Client: American Song Archives
 ---
 
-#### Primary Color Palette (examples)
+#### Primary Color Palette
 
-- ![#f9a13a](https://placehold.co/32x32/f9a13a/f9a13a.png) `#f9a13a`
-- ![#aed147](https://placehold.co/32x32/aed147/aed147.png) `#aed147`
-- ![#ed5671](https://placehold.co/32x32/ed5671/ed5671.png) `#ed5671`
+- ![#000000](https://placehold.co/32x32/000000/000000.png) `#000000`
+- ![#ffffff](https://placehold.co/32x32/ffffff/ffffff.png) `#ffffff`
+- ![#d16f1a](https://placehold.co/32x32/d16f1a/d16f1a.png) `#d16f1a`
 
 #### Secondary Accents (examples)
 
-- ![#f0a8a8](https://placehold.co/32x32/f0a8a8/f0a8a8.png) `#f0a8a8`
-- ![#ea6748](https://placehold.co/32x32/ea6748/ea6748.png) `#ea6748`
-- ![#b1763b](https://placehold.co/32x32/b1763b/b1763b.png) `#b1763b`
+- ![#374f5b](https://placehold.co/32x32/374f5b/374f5b.png) `#f0a8a8`
+- ![#f4e4ca](https://placehold.co/32x32/f4e4ca/f4e4ca.png) `#f4e4ca`
