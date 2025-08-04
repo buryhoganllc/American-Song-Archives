@@ -1,3 +1,5 @@
+<!-- Run the 'Make Change Log' action to use this template. A 'log' directory will be created if necessary.-->
+
 # Version Control / Change Log
 
 <!-- Use semantic versioning (X.Y.Z):  
