@@ -1,3 +1,5 @@
+<!-- Run the 'Make Notes Doc' action to use this template. A 'notes' directory will be created if necessary.-->
+
 # Client: [NAME]
 
 ### Project: [NAME]
