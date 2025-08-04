@@ -29,8 +29,8 @@ GPIO pins can supply 3.3V up to 500mA to external devices.
 
 If one BrightSign Player is driving the inputs of another BrightSign player, it can drive at most three inputs from one output:
 
-    The GPIO outputs have 100 ohm series resistors; the GPIO inputs have 1K pullup resistors to 3.3V; the input threshold is 2V high and 0.8V low. The high voltage is not problematic, but the low voltage can be if there are too many inputs conected to a single output.  
-    https://docs.brightsign.biz/hardware/au335-hardware-interfaces  
+The GPIO outputs have 100 ohm series resistors; the GPIO inputs have 1K pullup resistors to 3.3V; the input threshold is 2V high and 0.8V low.  
+The high voltage is not problematic, but the low voltage can be if there are too many inputs conected to a single output. See also: [BrightSign GPIO](https://docs.brightsign.biz/hardware/au335-hardware-interfaces).
 
     1 out driving 1 in: V=3.3*100/(100+1000)=0.3  
     1 out driving 2 in: V=3.3#100/(100+500)=0.55
