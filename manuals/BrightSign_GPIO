@@ -39,4 +39,4 @@ If one BrightSign Player is driving the inputs of another BrightSign player, it 
 
 #### Port Arrangement
 
-![BrightSign GPIO port](images/BrightSign_GPIO.png "BrightSign GPIO")
+![BrightSign GPIO port](/images/BrightSign_GPIO.png "BrightSign GPIO")
