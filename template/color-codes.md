@@ -4,7 +4,7 @@
 
 ### Project: [NAME]
 
-### Client: [NAME]
+### Client: American Song Archives
 ---
 
 #### Primary Color Palette (examples)
