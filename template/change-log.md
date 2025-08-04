@@ -12,15 +12,18 @@ Additional labels for pre-release and build metadata are available as extensions
 ALL builds start at __version 0.1.0__  
 Initial production release = __1.0.0__ -->
 
-## Project / Interactive Name  
-- Host machine make/model:  
-- OS version:  
-- Intuiface Player version:   
-- Final XP File build version:  [file name] 
+### Project: [NAME]
+### Client: American Song Archives
+---
+### Interactive: [NAME]
+- Host machine make/model: [NAME]  
+- OS version: [NAME]  
+- Intuiface Player version: [NAME]   
+- Final XP File build version: [NAME] 
 
 ### Version [x.y.z] - [DATE]
-__Fixed__
+__Fixed:__
 
-__Changed__
+__Changed:__
 
-__Added__
+__Added:__
