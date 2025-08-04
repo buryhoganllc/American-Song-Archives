@@ -1,0 +1,42 @@
+# BrightSign GPIO Pinout
+
+<!-- BrightSign players use a 12-position GPIO port for 3.5mm pitched Phoenix-type terminal blocks. -->
+
+### Pinout
+
+| PIN | FUNCTION |
+| --- | -------- |
+| 01  | GND      |
+| 02  | 3.3V     |
+| 03  | Button 0 |
+| 04  | Button 1 |
+| 05  | Button 2 |
+| 06  | Button 3 |
+| 07  | GND      |
+| 08  | 3.3V     |
+| 09  | Button 4 |
+| 10  | Button 5 |
+| 11  | Button 6 |
+| 12  | Button 7 | 
+
+#### Notes
+
+All BrightSign players have a 12-pin Phoenix GPIO port with 8 bi-directional GPIOs.
+
+_BrightSign recommends using 4-pin or 6-pin blocks as 12-pin blocks can be difficult to remove._
+
+GPIO pins can supply 3.3V up to 500mA to external devices.
+
+If one BrightSign Player is driving the inputs of another BrightSign player, it can drive at most three inputs from one output:
+
+    The GPIO outputs have 100 ohm series resistors; the GPIO inputs have 1K pullup resistors to 3.3V; the input threshold is 2V high and 0.8V low. The high voltage is not problematic, but the low voltage can be if there are too many inputs conected to a single output.  
+    https://docs.brightsign.biz/hardware/au335-hardware-interfaces  
+
+    1 out driving 1 in: V=3.3*100/(100+1000)=0.3  
+    1 out driving 2 in: V=3.3#100/(100+500)=0.55
+    1 out driving 3 in: V=3.3*100/(100+333.3)=0.76
+    1 out driving 4 in: V =3.3*100/(100+250)=0.95 <-- too high
+
+#### Port Arrangement
+
+![BrightSign GPIO port](images/BrightSign_GPIO.png "BrightSign GPIO")
