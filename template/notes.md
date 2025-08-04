@@ -1,8 +1,8 @@
 <!-- Run the 'Make Notes Doc' action to use this template. A 'notes' directory will be created if necessary.-->
 
-# Client: [NAME]
+# Project: [NAME]
 
-### Project: [NAME]
+### Client: [NAME]
 
 ### Date: [DATE] [TIME], [LOCATION]
 
@@ -28,8 +28,6 @@
 
 - [ ] Task 1
 - [ ] Task 2
-- [ ] Task 3
-- [ ] Task 4
 
 #### References
 
