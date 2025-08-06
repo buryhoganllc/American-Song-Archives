@@ -2,12 +2,11 @@
 
 # Contact List
 
-### Project: [NAME/TITLE]
+## Project: [NAME]
 
-### Client: American Song Archives
----
+## Client: [NAME]
 
-[NAME]
-[TILE/ROLE]
-[EMAIL]
-[PHONE]
+[NAME]  
+[TITLE/ROLE]  
+[EMAIL]  
+[PHONE]  
