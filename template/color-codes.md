@@ -1,11 +1,9 @@
 <!-- Run the 'Make Color Guide' action to use this template. A 'design' directory will be created if necessary.-->
-
 # Color Codes
 
-### Project: [NAME]
+## Project: [NAME]
 
-### Client: American Song Archives
----
+### Client: [NAME]
 
 #### Primary Color Palette (examples)
 
