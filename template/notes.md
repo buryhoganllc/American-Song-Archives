@@ -1,8 +1,7 @@
 <!-- Run the 'Make Notes Doc' action to use this template. A 'notes' directory will be created if necessary.-->
-
 # Project: [NAME]
 
-### Client: American Song Archives
+## Client: [NAME]
 
 ### Date: [DATE] [TIME], [LOCATION]
 
